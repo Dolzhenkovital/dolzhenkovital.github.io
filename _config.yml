@@ -1,0 +1,37 @@
+title: "Vitalii Dolzhenko - Portfolio"
+email: "dolzhenkovital@gmail.com"
+description: "Portfolio website for Vitalii Dolzhenko, IT specialist with over 15 years of experience."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://dolzhenkovital.github.io" # the base hostname & protocol for your site
+github_username: Dolzhenkovital
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+# Navigation links
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Recommendations"
+    url: "/recommendations/"
+  - title: "English"
+    url: "/index/"
+  - title: "Français"
+    url: "/index.fr/"
+
+author:
+  name: "Vitalii Dolzhenko"
+  email: "dolzhenkovital@gmail.com"
+  github: Dolzhenkovital
+
+social:
+  - name: "LinkedIn"
+    url: "https://www.linkedin.com/in/vitaliydolzhenko/"
+  - name: "GitHub"
+    url: "https://github.com/Dolzhenkovital"
+
+google_analytics: UA-XXXXXXXX-X
